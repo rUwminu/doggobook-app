@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/doggobook-app/static/css/main.e5858d68.chunk.css",
-    "main.js": "/doggobook-app/static/js/main.11e10c9d.chunk.js",
-    "main.js.map": "/doggobook-app/static/js/main.11e10c9d.chunk.js.map",
+    "main.css": "/doggobook-app/static/css/main.6bf4829f.chunk.css",
+    "main.js": "/doggobook-app/static/js/main.744d2463.chunk.js",
+    "main.js.map": "/doggobook-app/static/js/main.744d2463.chunk.js.map",
     "runtime-main.js": "/doggobook-app/static/js/runtime-main.af397e7c.js",
     "runtime-main.js.map": "/doggobook-app/static/js/runtime-main.af397e7c.js.map",
     "static/js/2.31418723.chunk.js": "/doggobook-app/static/js/2.31418723.chunk.js",
     "static/js/2.31418723.chunk.js.map": "/doggobook-app/static/js/2.31418723.chunk.js.map",
     "index.html": "/doggobook-app/index.html",
-    "static/css/main.e5858d68.chunk.css.map": "/doggobook-app/static/css/main.e5858d68.chunk.css.map",
+    "static/css/main.6bf4829f.chunk.css.map": "/doggobook-app/static/css/main.6bf4829f.chunk.css.map",
     "static/js/2.31418723.chunk.js.LICENSE.txt": "/doggobook-app/static/js/2.31418723.chunk.js.LICENSE.txt",
     "static/media/highway.f1901d75.jpg": "/doggobook-app/static/media/highway.f1901d75.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.af397e7c.js",
     "static/js/2.31418723.chunk.js",
-    "static/css/main.e5858d68.chunk.css",
-    "static/js/main.11e10c9d.chunk.js"
+    "static/css/main.6bf4829f.chunk.css",
+    "static/js/main.744d2463.chunk.js"
   ]
 }
